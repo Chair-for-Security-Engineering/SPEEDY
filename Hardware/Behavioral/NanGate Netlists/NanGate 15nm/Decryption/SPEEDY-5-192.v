@@ -1,10 +1,3 @@
-/////////////////////////////////////////////////////////////
-// Created by: Synopsys DC Ultra(TM) in wire load mode
-// Version   : O-2018.06-SP4
-// Date      : Wed Jun 30 02:55:43 2021
-/////////////////////////////////////////////////////////////
-
-
 module SPEEDY_Rounds5_0 ( Ciphertext, Key, Plaintext );
   input [191:0] Ciphertext;
   input [191:0] Key;
